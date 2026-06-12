@@ -602,6 +602,15 @@
 </details>
 
 <details>
+  <summary><b>Subagent Reporter</b> <img src="https://badgen.net/github/stars/raisbecka/opencode-subagent-output" height="14"/> - <i>See exactly what your subagents are up to (in the terminal) when invoked during an `opencode run _____` session.</i></summary>
+  <blockquote>
+    When opencode run <prompt> is invoked normally, the actions of the primary agent are visible in the terminal, but subagent actions are not. This makes it difficult to follow progress on the prompt, and makes it very difficult to use `opencode run` as part of an unattended process or script. This plugin pipes subagent actions/events directly to stdout, prefixes them with the subagents name, and enumerates subagents when run in parallel for easy identification. This allows the user to follow along in realtime when subagents are running, and effectively trace execution at a later time.
+    <br><br>
+    <a href="https://github.com/raisbecka/opencode-subagent-output">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Subtask2</b> <img src="https://badgen.net/github/stars/spoons-and-mirrors/subtask2" height="14"/> - <i>Orchestration system</i></summary>
   <blockquote>
     Extend opencode /commands into a powerful orchestration system with granular flow control.
