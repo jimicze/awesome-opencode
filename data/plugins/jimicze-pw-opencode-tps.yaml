@@ -1,4 +1,4 @@
-name: "@jimicze/opencode-tps"
+name: "@jimicze-pw/opencode-tps"
 repo: https://github.com/jimicze/opencode-plugin-tps
 tagline: Real-time PP and TG token speed metrics in the sidebar
 description: |
@@ -14,6 +14,6 @@ description: |
 
   Install via `npm` or add to your `tui.json`:
   ```json
-  { "plugin": ["@jimicze/opencode-tps"] }
+  { "plugin": ["@jimicze-pw/opencode-tps"] }
   ```
-  Or via CLI: `opencode plugin @jimicze/opencode-tps`
+  Or via CLI: `opencode plugin @jimicze-pw/opencode-tps`
